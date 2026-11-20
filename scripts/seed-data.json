@@ -1,0 +1,429 @@
+[
+ {
+  "ip": "10.20.0.1",
+  "owner": "Шлюз (роутер)",
+  "room": "серверная",
+  "model": "MikroTik",
+  "note": "не принтер — адрес занят"
+ },
+ {
+  "ip": "10.20.0.39",
+  "owner": "Бухгалтерия",
+  "room": "каб. 204",
+  "model": "Canon i-SENSYS LBP223dw",
+  "note": ""
+ },
+ {
+  "ip": "10.20.0.55",
+  "owner": "Расчётный отдел",
+  "room": "каб. 206",
+  "model": "HP LaserJet Pro M404dn",
+  "note": "нужен новый барабан"
+ },
+ {
+  "ip": "10.20.0.74",
+  "owner": "IT-отдел",
+  "room": "каб. 110",
+  "model": "Kyocera ECOSYS P2040dn",
+  "note": ""
+ },
+ {
+  "ip": "10.20.0.31",
+  "owner": "Отдел кадров",
+  "room": "каб. 201",
+  "model": "HP Color LaserJet Pro M454dn",
+  "note": "двусторонняя печать"
+ },
+ {
+  "ip": "10.20.0.53",
+  "owner": "Отдел продаж",
+  "room": "каб. 301",
+  "model": "Kyocera ECOSYS M2540dn",
+  "note": "нужен новый барабан"
+ },
+ {
+  "ip": "10.20.0.122",
+  "owner": "Отдел продаж",
+  "room": "каб. 303",
+  "model": "Canon i-SENSYS LBP223dw",
+  "note": ""
+ },
+ {
+  "ip": "10.20.0.196",
+  "owner": "Логистика",
+  "room": "каб. 115",
+  "model": "Kyocera ECOSYS M2540dn",
+  "note": ""
+ },
+ {
+  "ip": "10.20.0.87",
+  "owner": "Отдел закупок",
+  "room": "каб. 305",
+  "model": "HP Color LaserJet Pro M454dn",
+  "note": "цветной"
+ },
+ {
+  "ip": "10.20.0.220",
+  "owner": "Склад",
+  "room": "склад, рампа 1",
+  "model": "Canon i-SENSYS LBP223dw",
+  "note": ""
+ },
+ {
+  "ip": "10.20.0.126",
+  "owner": "Склад",
+  "room": "склад, офис",
+  "model": "Xerox VersaLink B405",
+  "note": "нужен новый барабан"
+ },
+ {
+  "ip": "10.20.0.65",
+  "owner": "Ресепшен",
+  "room": "холл, 1 эт.",
+  "model": "Kyocera ECOSYS M2540dn",
+  "note": ""
+ },
+ {
+  "ip": "10.20.0.162",
+  "owner": "Приёмная директора",
+  "room": "каб. 401",
+  "model": "HP Color LaserJet Pro M454dn",
+  "note": "общий на этаж"
+ },
+ {
+  "ip": "10.20.0.33",
+  "owner": "Юридический отдел",
+  "room": "каб. 307",
+  "model": "Canon i-SENSYS LBP223dw",
+  "note": ""
+ },
+ {
+  "ip": "10.20.0.68",
+  "owner": "Контроль качества",
+  "room": "лаборатория",
+  "model": "Kyocera ECOSYS M2540dn",
+  "note": "сканер в папку"
+ },
+ {
+  "ip": "10.20.0.181",
+  "owner": "Производство",
+  "room": "цех 1, мастерская",
+  "model": "Brother HL-L5100DN",
+  "note": ""
+ },
+ {
+  "ip": "10.20.0.98",
+  "owner": "Производство",
+  "room": "цех 2, пост мастера",
+  "model": "HP LaserJet Pro M404dn",
+  "note": ""
+ },
+ {
+  "ip": "10.20.0.85",
+  "owner": "Охрана",
+  "room": "КПП",
+  "model": "Xerox VersaLink B405",
+  "note": "нужен новый барабан"
+ },
+ {
+  "ip": "10.20.0.67",
+  "owner": "Реклама и PR",
+  "room": "каб. 310",
+  "model": "Canon i-SENSYS MF443dw",
+  "note": ""
+ },
+ {
+  "ip": "10.20.0.212",
+  "owner": "Финансовый отдел",
+  "room": "каб. 208",
+  "model": "HP LaserJet MFP M428fdn",
+  "note": ""
+ },
+ {
+  "ip": "10.20.0.92",
+  "owner": "Руководство",
+  "room": "каб. 402",
+  "model": "Kyocera TASKalfa 2553ci",
+  "note": ""
+ },
+ {
+  "ip": "10.20.0.127",
+  "owner": "Переговорная",
+  "room": "3 эт.",
+  "model": "Kyocera ECOSYS M2540dn",
+  "note": ""
+ },
+ {
+  "ip": "10.20.0.205",
+  "owner": "Учебный класс",
+  "room": "каб. 120",
+  "model": "Kyocera TASKalfa 2553ci",
+  "note": "общий на этаж"
+ },
+ {
+  "ip": "10.20.0.17",
+  "owner": "Бухгалтерия",
+  "room": "каб. 204",
+  "model": "Kyocera ECOSYS M2540dn",
+  "note": ""
+ },
+ {
+  "ip": "10.20.0.148",
+  "owner": "Расчётный отдел",
+  "room": "каб. 206",
+  "model": "Canon i-SENSYS MF443dw",
+  "note": ""
+ },
+ {
+  "ip": "10.20.0.193",
+  "owner": "IT-отдел",
+  "room": "каб. 110",
+  "model": "Xerox VersaLink B405",
+  "note": "сканер в папку"
+ },
+ {
+  "ip": "10.20.0.58",
+  "owner": "Отдел кадров",
+  "room": "каб. 201",
+  "model": "Kyocera TASKalfa 2553ci",
+  "note": "общий на этаж"
+ },
+ {
+  "ip": "10.20.0.38",
+  "owner": "Отдел продаж",
+  "room": "каб. 301",
+  "model": "Kyocera ECOSYS P2040dn",
+  "note": ""
+ },
+ {
+  "ip": "10.20.0.147",
+  "owner": "Отдел продаж",
+  "room": "каб. 303",
+  "model": "Brother HL-L5100DN",
+  "note": "цветной"
+ },
+ {
+  "ip": "10.20.0.69",
+  "owner": "Логистика",
+  "room": "каб. 115",
+  "model": "Kyocera TASKalfa 2553ci",
+  "note": ""
+ },
+ {
+  "ip": "10.20.0.213",
+  "owner": "Отдел закупок",
+  "room": "каб. 305",
+  "model": "HP LaserJet MFP M428fdn",
+  "note": ""
+ },
+ {
+  "ip": "10.20.0.173",
+  "owner": "Склад",
+  "room": "склад, рампа 1",
+  "model": "Brother HL-L5100DN",
+  "note": "общий на этаж"
+ },
+ {
+  "ip": "10.20.0.116",
+  "owner": "Склад",
+  "room": "склад, офис",
+  "model": "HP LaserJet MFP M428fdn",
+  "note": ""
+ },
+ {
+  "ip": "10.20.0.115",
+  "owner": "Ресепшен",
+  "room": "холл, 1 эт.",
+  "model": "HP Color LaserJet Pro M454dn",
+  "note": "нужен новый барабан"
+ },
+ {
+  "ip": "10.20.0.109",
+  "owner": "Приёмная директора",
+  "room": "каб. 401",
+  "model": "Kyocera ECOSYS P2040dn",
+  "note": "общий на этаж"
+ },
+ {
+  "ip": "10.20.0.72",
+  "owner": "Юридический отдел",
+  "room": "каб. 307",
+  "model": "Kyocera ECOSYS M2540dn",
+  "note": ""
+ },
+ {
+  "ip": "10.20.0.188",
+  "owner": "Контроль качества",
+  "room": "лаборатория",
+  "model": "HP LaserJet MFP M428fdn",
+  "note": ""
+ },
+ {
+  "ip": "10.20.0.56",
+  "owner": "Производство",
+  "room": "цех 1, мастерская",
+  "model": "Canon i-SENSYS LBP223dw",
+  "note": "цветной"
+ },
+ {
+  "ip": "10.20.0.198",
+  "owner": "Производство",
+  "room": "цех 2, пост мастера",
+  "model": "Kyocera ECOSYS P2040dn",
+  "note": ""
+ },
+ {
+  "ip": "10.20.0.11",
+  "owner": "Охрана",
+  "room": "КПП",
+  "model": "HP Color LaserJet Pro M454dn",
+  "note": ""
+ },
+ {
+  "ip": "10.20.0.46",
+  "owner": "Реклама и PR",
+  "room": "каб. 310",
+  "model": "Brother HL-L5100DN",
+  "note": "двусторонняя печать"
+ },
+ {
+  "ip": "10.20.0.166",
+  "owner": "Финансовый отдел",
+  "room": "каб. 208",
+  "model": "Kyocera TASKalfa 2553ci",
+  "note": "двусторонняя печать"
+ },
+ {
+  "ip": "10.20.0.100",
+  "owner": "Руководство",
+  "room": "каб. 402",
+  "model": "Kyocera TASKalfa 2553ci",
+  "note": ""
+ },
+ {
+  "ip": "10.20.0.153",
+  "owner": "Переговорная",
+  "room": "3 эт.",
+  "model": "Canon i-SENSYS MF443dw",
+  "note": ""
+ },
+ {
+  "ip": "10.20.0.48",
+  "owner": "Учебный класс",
+  "room": "каб. 120",
+  "model": "Kyocera TASKalfa 2553ci",
+  "note": ""
+ },
+ {
+  "ip": "10.20.0.225",
+  "owner": "Бухгалтерия",
+  "room": "каб. 204",
+  "model": "Brother HL-L5100DN",
+  "note": ""
+ },
+ {
+  "ip": "10.20.0.186",
+  "owner": "Расчётный отдел",
+  "room": "каб. 206",
+  "model": "Xerox VersaLink B405",
+  "note": ""
+ },
+ {
+  "ip": "10.20.0.135",
+  "owner": "IT-отдел",
+  "room": "каб. 110",
+  "model": "Kyocera ECOSYS M2540dn",
+  "note": "нужен новый барабан"
+ },
+ {
+  "ip": "10.20.0.2",
+  "owner": "Отдел кадров",
+  "room": "каб. 201",
+  "model": "HP Color LaserJet Pro M454dn",
+  "note": "общий на этаж"
+ },
+ {
+  "ip": "10.20.0.194",
+  "owner": "Отдел продаж",
+  "room": "каб. 301",
+  "model": "Kyocera TASKalfa 2553ci",
+  "note": "сканер в папку"
+ },
+ {
+  "ip": "10.20.0.195",
+  "owner": "Отдел продаж",
+  "room": "каб. 303",
+  "model": "HP Color LaserJet Pro M454dn",
+  "note": "двусторонняя печать"
+ },
+ {
+  "ip": "10.20.0.14",
+  "owner": "Логистика",
+  "room": "каб. 115",
+  "model": "Kyocera TASKalfa 2553ci",
+  "note": "сканер в папку"
+ },
+ {
+  "ip": "10.20.0.29",
+  "owner": "Отдел закупок",
+  "room": "каб. 305",
+  "model": "Kyocera ECOSYS P2040dn",
+  "note": ""
+ },
+ {
+  "ip": "10.20.0.231",
+  "owner": "Склад",
+  "room": "склад, рампа 1",
+  "model": "Canon i-SENSYS LBP223dw",
+  "note": "цветной"
+ },
+ {
+  "ip": "10.20.0.51",
+  "owner": "Склад",
+  "room": "склад, офис",
+  "model": "Kyocera ECOSYS P2040dn",
+  "note": ""
+ },
+ {
+  "ip": "10.20.0.53",
+  "owner": "Отдел продаж",
+  "room": "каб. 302",
+  "model": "HP LaserJet Pro M404dn",
+  "note": "конфликт: тот же IP, что у соседей"
+ },
+ {
+  "ip": "10.20.0.162",
+  "owner": "Логистика",
+  "room": "каб. 116",
+  "model": "Brother HL-L5100DN",
+  "note": ""
+ },
+ {
+  "ip": "10.20.1.15",
+  "owner": "Филиал Восток",
+  "room": "офис",
+  "model": "Canon i-SENSYS MF443dw",
+  "note": "своя подсеть филиала"
+ },
+ {
+  "ip": "10.20.1.16",
+  "owner": "Филиал Восток",
+  "room": "склад",
+  "model": "Kyocera ECOSYS P2040dn",
+  "note": ""
+ },
+ {
+  "ip": "",
+  "owner": "Склад Юг",
+  "room": "",
+  "model": "HP LaserJet Pro M404dn",
+  "note": "по USB, без IP"
+ },
+ {
+  "ip": "",
+  "owner": "Приёмная директора",
+  "room": "каб. 401",
+  "model": "Canon i-SENSYS LBP223dw",
+  "note": "по USB"
+ }
+]
